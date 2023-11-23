@@ -2,3 +2,5 @@ contract,
 " 0x96689yu74489g995a58999920aah782992ac "
 fuction : deploy<native_dex>
 primary : find.flux<avg^orcl>
+simplify,
+    <zk,op-remove.cong;
